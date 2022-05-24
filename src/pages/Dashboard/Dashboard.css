@@ -1,0 +1,13 @@
+.parent{
+    margin: auto;
+    padding: 120px;
+    max-width: 900px;
+    align-content: center;
+}
+
+.buton{
+    margin-left: 5px;
+    float:right;
+    margin-top: -60px;
+    background: rgb(white, white, white) !important;
+}
